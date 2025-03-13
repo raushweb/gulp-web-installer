@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* @import url('https://raushweb.ru/assets/font/Montserrat/?family=Montserrat:ital,wght@300,500,900;300,500,900&display=swap'); */
+@import url('https://raushweb.ru/assets/css/reset.css');
+@import url('https://raushweb.ru/assets/css/media.css');
+
+/*  Base    */
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.none {
+    display: none !important;
+}
+
+.metrika {
+    display: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/*  Header */
+
+.header {
+    padding-top: 60px;
+    padding-bottom: 80px;
+
+    border-bottom-right-radius: 100px;
+    background: #252525 linear-gradient(158deg, #2f2f2f 0%, #202020 100%);
+    color: #fff;
+}
+
+.header__row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 100px;
+}
+
+.header__logo {
+    position: relative;
+    top: -70px;
+    left: 40px;
+}
+
+.header__img {
+    border-radius: 80px;
+}
+
+.header__title {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.header__text {
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.header__btns {
+    display: flex;
+    column-gap: 20px;
+}
+
+.btn,
+.btn__outline {
+    height: 48px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    color: #fff;
+    line-height: 1;
+    transition: all 0.3s ease-in;
+}
+
+.btn {
+    background-color: #000;
+}
+
+.btn:hover {
+    background: #60b5bc;
+}
+
+.btn__outline {
+    border: 1px solid #3b3b3b;
+}
+
+.btn__outline:hover {
+    border-color: #60b5bc;
+}
+
+/* Portfolio */
+
+.content,
+.portfolio {
+    padding: 60px 0;
+}
+
+.content__title,
+.portfolio__title {
+    margin-bottom: 65px;
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.active {
+    font-weight: 700;
+}
+
+.projects {
+    display: flex;
+    flex-direction: column;
+    row-gap: 70px;
+    align-items: center;
+}
+
+.project {
+    text-align: center;
+}
+
+.project__img {
+    margin-bottom: 30px;
+    border-radius: 30px;
+    transition: opacity 0.5s ease-in;
+}
+
+.project__img:hover {
+    opacity: 0.8;
+}
+
+.project__title {
+    font-size: 22px;
+    color: #000;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Рекомендации */
+
+.hosting img,
+.vps__vds img,
+.www img {
+    border-radius: 30px;
+    margin-top: 60px;
+}
+
+/* Contacts */
+
+.contacts {
+    padding: 30px 0;
+    border-top-left-radius: 100px;
+    background-color: #252525;
+    color: #fff;
+}
+
+.contacts__title {
+    margin-bottom: 20px;
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.contacts__text ul {
+    display: flex;
+    column-gap: 30px;
+    /* flex-wrap: wrap; */
+}
+
+.messanger {
+    flex-grow: 1;
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+    padding: 26px 20px;
+    border-radius: 20px;
+    border: 1px solid #363636;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in;
+}
+
+.messanger:hover {
+    background-color: #1e1e1e;
+}
+
+/* Inner Page */
+.innerPage {
+    padding: 80px 0 0;
+}
+
+.innerPageDetails,
+.innerPageText {
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.innerPageTitle {
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.innerPageDetails {
+    align-items: center;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.innerPageText {
+    max-width: 570px;
+    color: #555555;
+    line-height: 1.5;
+}
+
+.innerPageLink {
+    color: #000;
+}
+
+.innerPageLink a {
+    color: #000;
+    text-decoration: underline;
+}
+
+.innerPageImg {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.innerPageBacklink {
+    max-width: 770px;
+    margin: 0 auto 40px;
+    padding: 30px;
+
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #f1f1f1;
+    text-align: center;
+    color: #000;
+}

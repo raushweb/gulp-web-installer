@@ -1,0 +1,122 @@
+@media screen and (max-width: 1080px) {
+
+    .header__title {
+        font-size: 50px;
+    }
+
+    .header__text {
+        font-size: 22px;
+    }
+
+    .content__title,
+    .portfolio__title {
+        font-size: 42px;
+    }
+
+    .contacts__title {
+        font-size: 42px;
+    }
+
+    .innerPageTitle {
+        font-size: 42px;
+    }
+
+    .contacts__text {
+        font-size: 16px;
+        column-gap: 15px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+
+    .contacts__text ul {
+        display: block;
+        border-radius: 15px;
+        font-size: 18px;
+    }
+
+    .contacts__text ul li {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .header {
+        padding-top: 20px;
+        padding-bottom: 40px;
+        border-bottom-right-radius: 60px;
+    }
+
+    .header__logo {
+        position: relative;
+        top: -50px;
+    }
+
+    .header__title {
+        margin-top: 20px;
+        font-size: 32px;
+    }
+
+    .header__text {
+        font-size: 18px;
+    }
+
+    .btn,
+    .btn__outline {
+        height: 42px;
+        padding: 12px 15px 0;
+    }
+
+    /* Портфолио */
+
+    .content,
+    .portfolio {
+        padding: 40px 0;
+    }
+
+    .content__title,
+    .portfolio__title {
+        margin-bottom: 30px;
+        font-size: 28px;
+    }
+
+    .projects {
+        row-gap: 30px;
+    }
+
+    .project__img {
+        margin-bottom: 20px;
+        border-radius: 14px;
+    }
+
+    .project__title {
+        font-size: 16px;
+    }
+
+    .innerPageTitle {
+        font-size: 32px;
+    }
+
+    .innerPageText {
+        font-size: 16px;
+    }
+
+    .hosting img,
+    .vps__vds img,
+    .www img {
+        border-radius: 14px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .header__row {
+        flex-direction: column;
+    }
+
+    .header__logo {
+        top: 0;
+        left: 0;
+    }
+}
