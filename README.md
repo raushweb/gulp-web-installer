@@ -14,7 +14,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 - > Уитановите [Git Baah](https://git-scm.com/downloads/win) если <kbd>Gulp Bash</kbd> не установлен.
 - > Установите [NodeJS](https://nodejs.org/en/download) если <kbd>NodeJS</kbd> не установлен.
 - > Запустите терминал используя установленый <kbd>Git Bash</kbd>
-- > Проверьте корректно ли установился [NodeJS](https://nodejs.org/en/download):  >>
+- > Проверьте корректно ли установился [NodeJS](https://nodejs.org/en/download):  
 `node -v` 
 - > Вы должны увидеть номер версии: 
 у меня стоит версия ``v22.12.0``
