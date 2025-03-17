@@ -1,21 +1,18 @@
-# Security Policy
+#  Политика безопасности
 
-## Supported Versions
+## :heavy_exclamation_mark: Поддерживаемые версии
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+В настоящее время поддерживаются обновлениями безопасности.
 
-| Version | Supported          |
+| Версия  | Поддерживается     |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.1   | :white_check_mark: |
+| 1.0.0   | :x:                |
 
-## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+## :question: Как сообщить об уязвимости
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Для того чтобы сообщить об уязвимость сообщите мне:
+
+Воспользуйтесь этой [ссылкой](https://github.com/raushweb/gulp-web-installer/issues) или напишите мне в [![IMG](https://raushweb.ru/assets/img/icon/telegram.svg)](https://t.me/+79602042339) [![IMG](https://raushweb.ru/assets/img/icon/whatsapp.svg)](https://wa.me/+79602042339) [![IMG](https://raushweb.ru/assets/img/icon/vk.svg)](https://vk.com/id528175475)
+
