@@ -1,12 +1,20 @@
 {
-	"name": "test",
+	"name": "gulp-web-installer",
 	"version": "1.0.1",
-	"description": "",
+	"description": "Gulp Web Installer - конвертер, сборщик, обработчик HTML, CSS, JS файлов. Для последующего переноса на хостинг.",
+	"keywords": [
+		"gulp-web-installer",
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"gulp"
+	],
 	"main": "gulpfile.js",
 	"scripts": {
+		"dev": "gulp",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "",
+	"author": "Zheka Raush",
 	"license": "ISC",
 	"browserslist": [
 		"> 1%",
@@ -19,7 +27,7 @@
 		"babel": "^6.23.0",
 		"babel-core": "^6.26.3",
 		"babel-loader": "^9.1.2",
-		"browser-sync": "^2.29.3",
+		"browser-sync": "^3.0.3",
 		"core-js": "^3.31.0",
 		"eslint": "^8.57.1",
 		"eslint-config-standard": "^17.1.0",
