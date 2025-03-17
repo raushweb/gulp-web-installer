@@ -1,4 +1,4 @@
-[img](docs/assets/img/icon/us.png) en-EN
+en-EN ![img](![EN](https://github.com/raushweb/gulp-web-installer/blob/main/docs/assets/img/icon/us.png))
 
 BSD 3-Clause License
 
@@ -30,4 +30,4 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-:ru:
+ru-RU ![img](![RU](https://github.com/raushweb/gulp-web-installer/blob/main/docs/assets/img/icon/ru.png))
