@@ -100,6 +100,6 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 наберите на клавиатуре сочетание клавиш <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 
-## Остались вопросы:question: 
+## Остались вопросы :question: 
 
-Напиши мне в [![IMG](https://raushweb.ru/assets/img/icon/telegram.svg)](https://t.me/+79602042339) [![IMG](https://raushweb.ru/assets/img/icon/whatsapp.svg)](https://wa.me/+79602042339) [![IMG](https://raushweb.ru/assets/img/icon/vk.svg)](https://vk.com/id528175475) отвечу на все вопросы.
+Свяжитесь со мной по этой [ссылке](https://github.com/raushweb/gulp-web-installer/blob/main/SECURITY.md "Сылка для связи со мной тут")
