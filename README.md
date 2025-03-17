@@ -101,4 +101,4 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 
 ## Остались вопросы:question: 
 
-Напиши мне в [![IMG](https://raushweb.ru/assets/img/icon/telegram.svg)](https://t.me/+79602042339) отвечу на все вопросы.
+Напиши мне в [![IMG](https://raushweb.ru/assets/img/icon/telegram.svg)](https://t.me/+79602042339) [![IMG](https://raushweb.ru/assets/img/icon/whatsapp.svg)](https://wa.me/+79602042339) [![IMG](https://raushweb.ru/assets/img/icon/vk.svg)](https://vk.com/id528175475) отвечу на все вопросы.
