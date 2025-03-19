@@ -76,7 +76,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 `gulp -v`
 
 у меня стоит:  
-`CLI version: 3.0.0`
+`CLI version: 3.0.0`  
 `Local version: 4.0.2`
 
 И так, все встало корректно, теперь запускаем <kbd>Gulp</kbd> командой:  
