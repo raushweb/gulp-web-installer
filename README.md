@@ -57,8 +57,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 `cd dev`
 
 Далее, клонируйте из репозитория gulp-web-installer  
-`git clone https://github.com/raushweb/gulp-web
-    -installer.git`
+`git clone https://github.com/raushweb/gulp-web-installer.git`  
 Далее, преходим в папку gulp-web-installer  
 `cd gulp-web-installer`
 
@@ -70,7 +69,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 
 Нажав сочетание клавишь <kbd>CTRL</kbd> + <kbd>`</kbd> или <kbd>CTRL</kbd> + <kbd>ё</kbd>
 
-Откроется нижняя панель выберите терминал, запустите сборщик пакетов npm командой:  
+Откроется нижняя панель выберите терминал, по умолчанию <kbd>Visual Studio Code</kbd> открывается <kbd>PowerShell</kbd> нажмите на <kbd>V</kbd> в выподающем списке выберите <kbd>Git Bash</kbd> затем запустите сборщик пакетов npm командой:  
 `npm i`
 
 После того, как все установится, проверьте версию <kbd>Gulp</kbd> командой:  
@@ -85,7 +84,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 
 Ждите пока <kbd>Gulp</kbd> полностью запустится, когда <kbd>Gulp</kbd> запустится, у вас запустится браузер с проектом, не пугайтесь все так и должно быть.
 
-А это картинка которую вы должны увидеть у себя в <kbd>Git Bash</kbd>
+А это картинка которую вы должны увидеть у себя в терминале <kbd>Git Bash</kbd>
 ![IMG](https://raushweb.ru/assets/img/gulp-web-installer.jpg)
 
 Если у вас 2 монитора как в моем случае, то это очень удобно.
@@ -94,11 +93,8 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 
 сохранения видеть что произошло с вашим проектом в браузере.
 
-Чтобы остановить работу <kbd>Gulp</kbd> сверните браузер и выбрав ```Git Bash```
+Чтобы остановить работу <kbd>Gulp</kbd> в терминале <kbd>Visual Studio Code</kbd> наберите на клавиатуре сочетание клавиш <kbd>CTRL</kbd> + <kbd>C</kbd>
 
-наберите на клавиатуре сочетание клавиш <kbd>CTRL</kbd> + <kbd>C</kbd>
-
-
-## Остались вопросы :question: 
+## Остались вопросы :question:
 
 Свяжитесь со мной по этой [ссылке](https://github.com/raushweb/gulp-web-installer/blob/main/SECURITY.md "Сылка для связи со мной тут")
