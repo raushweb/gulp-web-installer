@@ -1,6 +1,5 @@
 # :fire: Gulp Web Installer
 
-- GULP-WEB-INSTALLER
 - HTML
 - CSS
 - JavaScript
@@ -12,7 +11,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 Для последующего переноса на хостинг.
 
 ## :hammer_and_wrench: Установка
-Уитановите [Git Baah](https://git-scm.com/downloads/win) если <kbd>Gulp Bash</kbd> не установлен.
+Уитановите [Git Baah](https://git-scm.com/downloads/win) если <kbd>Git Bash</kbd> не установлен.
 
 Установите [NodeJS](https://nodejs.org/en/download) если <kbd>NodeJS</kbd> не установлен.
 
