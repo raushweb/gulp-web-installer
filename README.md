@@ -37,7 +37,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 `gulp -v`
 
 Вы должны увидеть примерно такое содержимое:  
-`CLI version: 3.0.0`
+`CLI version: 3.0.0`  
 `Local version: none`
 
 Откройте проводник
@@ -63,7 +63,7 @@ Gulp Web Installer - конвертер, сборщик, обработчик HT
 Далее, преходим в папку gulp-web-installer  
 `cd gulp-web-installer`
 
-Скачайте и установите [Wisual Studio Code](https://code.visualstudio.com/download)
+Скачайте и установите [Visual Studio Code](https://code.visualstudio.com/download)
 
 Откройте папку в проводнике, <kbd>C:\dev\gulp-web-installer<kbd>
 
